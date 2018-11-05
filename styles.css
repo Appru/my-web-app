@@ -1,0 +1,50 @@
+*{
+    padding:2px;
+    margin: 2px;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(179, 160, 160);
+    color: black;
+
+
+
+}
+#cent{
+    text-align: center;
+
+}
+#epic{
+   
+    font-size: 72pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: dotted;
+    padding:10px;
+    margin: 10px;
+    display: inline;
+  
+     
+     
+}
+
+#image{
+    text-align: center;
+    padding:10px;
+    margin: 10px;
+    
+    color: black
+    
+}
+#monkey{
+   border-width: thick;
+   
+    border: solid;
+    border-color: brown;
+    
+
+}
+#monkey:hover{
+    border-color: purple;
+
+}
